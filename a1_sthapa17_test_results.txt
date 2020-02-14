@@ -1,0 +1,13 @@
+2019-01-02
+2018-12-31
+2019-01-03
+2019-01-02
+2019-01-03
+2019-01-04
+2019-11-13
+Error: wrong month entered
+Error: wrong day entered
+Error: wrong date entered
+Usage: a1_sthapa17.py [--step] YYYY-MM-DD +/-n
+365
+365
